@@ -3,6 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// import Flippy from "./Flippy";
+
+// export { default as Flippy } from './Flippy';
+// export { FrontSide } from './FlippyCard';
+// export { BackSide } from './FlippyCard';
+
+// export default Flippy;
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
