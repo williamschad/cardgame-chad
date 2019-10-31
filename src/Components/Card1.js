@@ -1,6 +1,6 @@
 import React, { Component} from 'react';
 import ReactCardFlip from 'react-card-flip';
-import Image from '../Components/UNO.jpg';
+import Image from '../Components/UNO1.png';
 //Create Card component
 class Card1 extends React.Component {
   constructor() {
